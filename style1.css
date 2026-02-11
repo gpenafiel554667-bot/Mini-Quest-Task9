@@ -1,0 +1,11 @@
+
+      body {
+        background: #1252d3; 
+      }
+      .quest-card {
+        border-radius: 16px; 
+      }
+      .btn-quest:hover {
+        transform: translateY(-1px); 
+      }
+    
