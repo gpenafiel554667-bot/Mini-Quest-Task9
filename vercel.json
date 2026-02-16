@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/level1", "destination": "/Level1.html" }
+    { "source": "/(.*)", "destination": "/Level1.html" }
   ]
 }
